@@ -1,0 +1,56 @@
+.beagle-info{box-sizing: border-box;
+
+position: absolute;
+width: 1643px;
+height: 648.57px;
+left: 38px;
+top: 47px;
+
+border: 2px solid #000000;
+}
+
+.images-text{
+    position: absolute;
+width: 962px;
+height: 77px;
+left: 58px;
+top: 742px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+.beagle-image{
+    position: absolute;
+width: 1051px;
+height: 762px;
+left: 58px;
+top: 874px;
+
+}
+.beagle-trivia{
+    position: absolute;
+width: 1623px;
+height: 469px;
+left: 58px;
+top: 1795px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 77px;
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+.beagle-trivia li {
+    margin-bottom: 10px;
+  }
